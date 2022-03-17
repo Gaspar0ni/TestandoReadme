@@ -31,8 +31,8 @@ Lista
 - Segundo
 - Terceiro
 
-1 Primeiro
-2 Segundo
-3 Terceiro
+1. Primeiro
+2. Segundo
+3. Terceiro
 
 
