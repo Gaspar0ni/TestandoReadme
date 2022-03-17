@@ -41,4 +41,6 @@ teste += 1;
 2. Segundo
 3. Terceiro
 
+<!-- Este é apenas um comentário e não vai aparecer na tela -->
+
 
