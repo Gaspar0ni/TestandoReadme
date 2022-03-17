@@ -27,6 +27,6 @@ teste += 1;
 
 Lista
 
--Primeiro
--Segundo
--Terceiro
+- Primeiro
+- Segundo
+- Terceiro
