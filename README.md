@@ -28,8 +28,11 @@ teste += 1;
 Lista
 
 - Primeiro
+  - Metade
 - Segundo
+  - Metade
 - Terceiro
+  - Metade
 
 1. Primeiro
 2. Segundo
