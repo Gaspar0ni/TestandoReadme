@@ -54,6 +54,15 @@ git config --global user.email "you@example.com"
 
 git log
 git status
+git config --list
+
+ls
+dir
+tree /f
+
+cd ..
+cd ../
+cd nome_do_proximo_diretorio
 
 git branch -M main
 git branch -M master
